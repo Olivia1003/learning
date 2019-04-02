@@ -1,0 +1,3 @@
+# RN样式
+
++ 需要注意的是：包裹在View元素中的Text表现为block，可以设置margin和padding的各种属性；包裹在Text元素中的Text表现为inline元素，不能设置其marginTop和marginBottom， padding等用于block元素的属性
